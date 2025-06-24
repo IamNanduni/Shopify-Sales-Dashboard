@@ -64,11 +64,11 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-  - Install Microsoft Power BI Desktop (available for free from the Microsoft website).
+  -  Install Microsoft Power BI Desktop (available for free from the Microsoft website).
 
 
 
-  - Ensure you have access to the Shopify sales data source (e.g., CSV, database, or API credentials).
+  -  Ensure you have access to the Shopify sales data source (e.g., CSV, database, or API credentials).
 
 
 
@@ -78,7 +78,7 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-  - Download the .pbix file and open it in Power BI Desktop.
+  -  Download the .pbix file and open it in Power BI Desktop.
 
 
 
@@ -88,11 +88,11 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-  - If prompted, update the data source connection to point to your Shopify sales data (e.g., file path or database).
+  -  If prompted, update the data source connection to point to your Shopify sales data (e.g., file path or database).
 
 
 
-  - Refresh the data to load the latest records.
+  -  Refresh the data to load the latest records.
 
 
 
@@ -102,19 +102,19 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-  - Use the measure selector to switch between KPIs (e.g., Net Sales, Total Customers, Repeat Customers).
+  -  Use the measure selector to switch between KPIs (e.g., Net Sales, Total Customers, Repeat Customers).
 
 
 
-  - Apply slicers/filters to refine data by region, date, or other dimensions.
+  -  Apply slicers/filters to refine data by region, date, or other dimensions.
 
 
 
-  - Click on visuals (e.g., maps, charts) to filter related visuals or drill through to detailed data.
+  -  Click on visuals (e.g., maps, charts) to filter related visuals or drill through to detailed data.
 
 
 
-  - Navigate to the dedicated detailed data page for granular analysis.
+  -  Navigate to the dedicated detailed data page for granular analysis.
 
 
 
@@ -124,11 +124,11 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-  - Save any changes to the .pbix file locally.
+  -  Save any changes to the .pbix file locally.
 
 
 
-  - Publish the report to Power BI Service (if you have an account) to share with stakeholders or embed in web applications.
+  -  Publish the report to Power BI Service (if you have an account) to share with stakeholders or embed in web applications.
 
 
 
@@ -138,11 +138,11 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-  - If data fails to load, verify the data source connection and ensure the schema matches the expected format.
+  -  If data fails to load, verify the data source connection and ensure the schema matches the expected format.
 
 
 
-  - Refer to Power BI documentation for advanced features like DAX calculations or custom visuals.
+  -  Refer to Power BI documentation for advanced features like DAX calculations or custom visuals.
 
 
 
