@@ -2,7 +2,7 @@
 This power bi dash board contains a analysis and visualization about the shopify sales dataset. This dynamic report provides actionable insights into key business metrics including net sales, customer purchase behavior, retention KPIs, and sales trends over time.
 
 
-##**Project Purpose**##
+## **Project Purpose**##
 The purpose of this project is to analyze Shopify sales data using Power BI to provide actionable insights into transaction performance, customer purchasing behavior, and long-term customer value. The interactive dashboard enables stakeholders to identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 Data Sources
 The dashboard utilizes Shopify sales data, which includes:
