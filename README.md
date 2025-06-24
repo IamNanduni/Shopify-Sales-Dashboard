@@ -4,18 +4,18 @@ This power bi dash board contains a analysis and visualization about the shopify
 
 ## **Project Purpose**
 The purpose of this project is to analyze Shopify sales data using Power BI to provide actionable insights into transaction performance, customer purchasing behavior, and long-term customer value. The interactive dashboard enables stakeholders to identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
-## **Data Sources
+## **Data Sources**
 The dashboard utilizes Shopify sales data, which includes:
 
-Transaction details (e.g., Net Sales, Total Quantity, Order Value)
-Customer information (e.g., Total Customers, Single Order Customers, Repeat Customers)
-Geographic data (e.g., Province, City)
-Temporal data (e.g., Date, Hour of transactions)
-Payment methods (e.g., Gateway Payment Method)
-Product information (e.g., Product Type)
+- Transaction details (e.g., Net Sales, Total Quantity, Order Value)
+- Customer information (e.g., Total Customers, Single Order Customers, Repeat Customers)
+- Geographic data (e.g., Province, City)
+- Temporal data (e.g., Date, Hour of transactions)
+- Payment methods (e.g., Gateway Payment Method)
+- Product information (e.g., Product Type)
 
 The data is connected to Power BI for cleaning, modeling, processing, and visualization.
-## **Dashboard Insights
+## **Dashboard Insights**
 The dashboard provides insights across key areas:
 
 Transaction Performance:
@@ -50,7 +50,7 @@ Identifies top-performing product types by revenue and order volume, with insigh
 Detailed Data Page:
 Offers drill-through functionality to explore transaction-level details, validating summary trends with raw data.
 
-## **How to Use the .pbix File
+## **How to Use the .pbix File**
 
 To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
