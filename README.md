@@ -22,32 +22,32 @@ The dashboard provides insights across key areas:
 Tracks Net Sales, Total Quantity, and Net Average Order Value to evaluate sales operations.
 
 
-Customer Purchase Behavior:
+2. Customer Purchase Behavior:
 Analyzes Total Customers, Single Order Customers, and Repeat Customers to understand engagement and loyalty.
 
 
-Retention & Value KPIs:
+3. Retention & Value KPIs:
 Measures Lifetime Value (LTV), Repeat Rate, and Purchase Frequency to assess long-term customer value.
 
 
-Regional Overview:
+4. Regional Overview:
 Visualizes province-wise and city-level performance using Filled Maps, Bubble/Density Maps, and Bar Charts.
 Dynamically updates based on selected measures (e.g., Net Sales, Total Customers).
 
 
-Sales Trend Over Time:
+5. Sales Trend Over Time:
 Displays daily trends (Area Chart) and hourly activity (Bar/Line Chart) to identify peak periods.
 
 
-Gateway Payment Method:
+6. Gateway Payment Method:
 Highlights the most and least used payment methods and regional preferences.
 
 
-Product Type:
+7. Product Type:
 Identifies top-performing product types by revenue and order volume, with insights into customer engagement.
 
 
-Detailed Data Page:
+8. Detailed Data Page:
 Offers drill-through functionality to explore transaction-level details, validating summary trends with raw data.
 
 ## **How to Use the .pbix File**
@@ -58,7 +58,7 @@ To use the Shopify Sales Analysis Power BI (.pbix) file, follow these steps:
 
 
 
-Prerequisites:
+1. Prerequisites:
 
 
 
@@ -72,7 +72,7 @@ Ensure you have access to the Shopify sales data source (e.g., CSV, database, or
 
 
 
-Open the File:
+2. Open the File:
 
 
 
@@ -82,67 +82,67 @@ Download the .pbix file and open it in Power BI Desktop.
 
 
 
-Connect to Data:
+3. Connect to Data:
 
 
 
 
 
-If prompted, update the data source connection to point to your Shopify sales data (e.g., file path or database).
+- If prompted, update the data source connection to point to your Shopify sales data (e.g., file path or database).
 
 
 
-Refresh the data to load the latest records.
+- Refresh the data to load the latest records.
 
 
 
-Interact with the Dashboard:
-
-
-
-
-
-Use the measure selector to switch between KPIs (e.g., Net Sales, Total Customers, Repeat Customers).
-
-
-
-Apply slicers/filters to refine data by region, date, or other dimensions.
-
-
-
-Click on visuals (e.g., maps, charts) to filter related visuals or drill through to detailed data.
-
-
-
-Navigate to the dedicated detailed data page for granular analysis.
-
-
-
-Save and Share:
+4. Interact with the Dashboard:
 
 
 
 
 
-Save any changes to the .pbix file locally.
+- Use the measure selector to switch between KPIs (e.g., Net Sales, Total Customers, Repeat Customers).
 
 
 
-Publish the report to Power BI Service (if you have an account) to share with stakeholders or embed in web applications.
+- Apply slicers/filters to refine data by region, date, or other dimensions.
 
 
 
-Troubleshooting:
+- Click on visuals (e.g., maps, charts) to filter related visuals or drill through to detailed data.
+
+
+
+- Navigate to the dedicated detailed data page for granular analysis.
+
+
+
+5. Save and Share:
 
 
 
 
 
-If data fails to load, verify the data source connection and ensure the schema matches the expected format.
+- Save any changes to the .pbix file locally.
 
 
 
-Refer to Power BI documentation for advanced features like DAX calculations or custom visuals.
+- Publish the report to Power BI Service (if you have an account) to share with stakeholders or embed in web applications.
+
+
+
+6. Troubleshooting:
+
+
+
+
+
+- If data fails to load, verify the data source connection and ensure the schema matches the expected format.
+
+
+
+- Refer to Power BI documentation for advanced features like DAX calculations or custom visuals.
 
 
 
