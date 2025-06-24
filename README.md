@@ -18,7 +18,7 @@ The data is connected to Power BI for cleaning, modeling, processing, and visual
 ## **Dashboard Insights**
 The dashboard provides insights across key areas:
 
-Transaction Performance:
+1. Transaction Performance:
 Tracks Net Sales, Total Quantity, and Net Average Order Value to evaluate sales operations.
 
 
